@@ -104,6 +104,13 @@ section ul li:hover{
     height: 150px;
     border: 3px solid #3e4854;
 }
+.Games-List img{
+    border:3px solid #3e4854 ;
+}
+footer h6{
+    color: white;
+    text-align: center;
+}
 /* ANIMATION*/
 header div{
     animation: fromTop .7s .2s backwards;
